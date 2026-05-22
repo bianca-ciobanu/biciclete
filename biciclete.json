@@ -1,0 +1,35 @@
+[
+  {
+    "nume": "Trek Marlin 7",
+    "marca": "Trek",
+    "tip": "Mountain",
+    "pret": 3200,
+    "rating": 4.5,
+    "kilometri": 120,
+    "electrica": false,
+    "areCos": false,
+    "dataAchizitie": "10/3/2024"
+  },
+  {
+    "nume": "Cube Reaction",
+    "marca": "Cube",
+    "tip": "Electrica",
+    "pret": 9500,
+    "rating": 5,
+    "kilometri": 450,
+    "electrica": true,
+    "areCos": false,
+    "dataAchizitie": "5/6/2023"
+  },
+  {
+    "nume": "Pegas Clasic",
+    "marca": "Pegas",
+    "tip": "Oras",
+    "pret": 1500,
+    "rating": 4,
+    "kilometri": 80,
+    "electrica": false,
+    "areCos": true,
+    "dataAchizitie": "1/1/2025"
+  }
+]
